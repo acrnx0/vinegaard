@@ -1,1 +1,20 @@
-{"name": "Alice", "age": 30}
+[
+  {
+    "timestamp": 1728518400,
+    "title": "Release - [assembly]",
+    "changes": {
+      "fixes": ["Bug fixes and stability improvements"],
+      "features": ["Added support for new architectures"],
+      "documentation": ["Updated documentation"]
+    }
+  },
+  {
+    "timestamp": 1735513404,
+    "title": "Release - [core]",
+    "changes": {
+      "fixes": ["Fixed memory leak"],
+      "features": ["New API endpoints"],
+      "documentation": []
+    }
+  }
+]
