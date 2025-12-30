@@ -1,109 +1,11 @@
 [
   {
-    "timestamp": 1734220800,
-    "title": "Release - [assembly]",
-    "changes": {
-      "fixes": ["Bug fixes and stability improvements"],
-      "features": ["Added support for new architectures"],
-      "documentation": ["Updated documentation"]
-    }
-  },
-  {
-    "timestamp": 1732060800,
-    "title": "Release - [core v2.1.0]",
-    "changes": {
-      "features": [
-        "Implemented real-time synchronization",
-        "Added multi-language support",
-        "New dashboard analytics"
-      ],
-      "fixes": [
-        "Fixed memory leak in worker threads",
-        "Resolved database connection timeout issues"
-      ],
-      "performance": ["Optimized query execution by 40%"]
-    }
-  },
-  {
-    "timestamp": 1728518400,
-    "title": "Hotfix - [security patch]",
-    "changes": {
-      "security": [
-        "Patched critical authentication vulnerability",
-        "Updated SSL/TLS certificates"
-      ],
-      "fixes": ["Fixed login redirect loop"]
-    }
-  },
-  {
-    "timestamp": 1725494400,
-    "title": "Release - [frontend v3.0]",
-    "changes": {
-      "features": [
-        "Redesigned user interface",
-        "Dark mode support",
-        "Mobile responsive layout",
-        "Added drag-and-drop functionality"
-      ],
-      "breaking": ["Removed deprecated API v1 endpoints"],
-      "documentation": ["Complete API reference update", "Added migration guide"]
-    }
-  },
-  {
-    "timestamp": 1724284800,
-    "title": "Release - [backend v1.8.5]",
-    "changes": {
-      "features": [
-        "WebSocket support for live updates",
-        "New caching mechanism"
-      ],
-      "fixes": [
-        "Fixed race condition in user sessions",
-        "Corrected timezone handling",
-        "Resolved email notification delays"
-      ],
-      "performance": [
-        "Reduced API response time by 25%",
-        "Improved database indexing"
-      ]
-    }
-  },
-  {
-    "timestamp": 1720915200,
-    "title": "Release - [integration module]",
-    "changes": {
-      "features": [
-        "Added GitHub integration",
-        "Slack notifications support",
-        "Webhook API endpoints"
-      ],
-      "documentation": ["Integration setup guides", "Webhook examples"]
-    }
-  },
-  {
-    "timestamp": 1719705600,
-    "title": "Release - [analytics v2.0]",
-    "changes": {
-      "features": [
-        "Custom report builder",
-        "Export to CSV/PDF",
-        "Scheduled reports automation",
-        "Advanced filtering options"
-      ],
-      "fixes": ["Fixed chart rendering on Safari"],
-      "performance": ["Faster data aggregation for large datasets"]
-    }
-  },
-  {
-    "timestamp": 1715990400,
-    "title": "Maintenance Update",
-    "changes": {
-      "fixes": [
-        "Minor bug fixes",
-        "UI polish and improvements"
-      ],
-      "performance": ["General performance optimizations"],
-      "documentation": ["Updated troubleshooting section"]
-    }
+    "timestamp": 1735513404,
+    "title": "Release - [core]",
+    "changes": [
+      "Fixed memory leak",
+      "New API endpoints",
+      "Performance optimizations"
+    ]
   }
 ]
