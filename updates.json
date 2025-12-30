@@ -7,5 +7,14 @@
       "New API endpoints",
       "Performance optimizations"
     ]
+  },
+  {
+    "timestamp": 1767052224,
+    "title": "Release - [core]",
+    "changes": [
+      "Fixed memory leak",
+      "New API endpoints",
+      "Performance optimizations"
+    ]
   }
 ]
